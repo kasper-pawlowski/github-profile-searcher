@@ -9,7 +9,7 @@ const Wrapper = styled.nav `
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 30px;
+    padding: 0 5%;
 `
 
 const Nav = () => {
