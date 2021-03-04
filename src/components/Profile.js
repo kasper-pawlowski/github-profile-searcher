@@ -27,6 +27,7 @@ const ProfileInfo = styled.div `
     @media (max-width: 1140px) {
         flex-direction: column;
         align-items: center;
+        width: 90%;
     }
 `
 
@@ -50,6 +51,9 @@ const Div = styled.div `
     overflow: hidden;
     a {
         text-decoration: none;
+    }
+    @media (max-width: 1140px) {
+        width: 100%;
     }
 `
 
