@@ -1,3 +1,7 @@
+# Live demo
+
+[live](https://kasper-pawlowski.github.io/github-profile-searcher/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
