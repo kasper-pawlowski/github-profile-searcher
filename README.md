@@ -1,4 +1,4 @@
-#Live demo
+# Live demo
 
 []https://kasper-pawlowski.github.io/github-profile-searcher/
 
