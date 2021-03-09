@@ -1,3 +1,19 @@
+<h1 align="center">Hi 👋, I'm Kasper</h1>
+
+<h3 align="center">lubie placki</h3>
+
+- 🔭 I’m currently working on [gh](google.com)
+
+- 🌱 I’m currently learning **react**
+
+- 📫 How to reach me **gmail@gmail.com**
+
+
+
+
+
+
+
 
 <h1 align="center">github-profile-searcher</h1>
 
