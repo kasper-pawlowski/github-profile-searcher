@@ -1,12 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kasper</h1>
+<h3 align="left">Languages and Tools:</h3>
 
-<h3 align="center">lubie placki</h3>
-
-- 🔭 I’m currently working on [gh](google.com)
-
-- 🌱 I’m currently learning **react**
-
-- 📫 How to reach me **gmail@gmail.com**
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="{skill.name}" width="40" height="40" />,<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="{skill.name}" width="40" height="40" />,<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="{skill.name}" width="40" height="40" />,<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="{skill.name}" width="40" height="40" />,<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="{skill.name}" width="40" height="40" /> </p>
 
 
 
